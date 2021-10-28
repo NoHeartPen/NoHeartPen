@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoHeartPen&theme=dark&layout=compact)
+
 -->
 
 - 🏫 I'm a junior Japanese major in Sichuan International Studies University.
 - 📫 How to reach me: NoHeartPen@outlook.com
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoHeartPen&theme=dark&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoHeartPen&show_icons=true&theme=dark&count_private=true)
