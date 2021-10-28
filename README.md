@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoHeartPen&theme=dark&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoHeartPen)](https://github.com/NoHeartPen/github-readme-stats)
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoHeartPen&show_icons=true&theme=dark&count_private=true)
