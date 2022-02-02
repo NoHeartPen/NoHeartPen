@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I'm a junior at Sichuan International Studies University and study Japanese major.
+- 🏫 I'm a junior at Sichuan International Studies University and study Japanese Language and Literature.
 - 🔭 I’m currently working on Japanese NLP and CAT.
 - 📫 How to reach me: NoHeartPen@outlook.com
 
