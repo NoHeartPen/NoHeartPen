@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 👯 I’m looking to collaborate on ...CAt
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I'm a junior Japanese major in Sichuan International Studies University.
+- 🏫 I'm a junior at Sichuan International Studies University and study Japanese major.
 - 🔭 I’m currently working on Japanese NLP and CAT.
 - 📫 How to reach me: NoHeartPen@outlook.com
 
