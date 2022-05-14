@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: NoHeartPen@outlook.com
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NoHeartPen&show_icons=true&theme=dark&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoHeartPen&theme=dark&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHeartPen&theme=dark&hide=html,shell">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=NoHeartPen&show_icons=true&theme=dark&line_height=33">
+</a>
