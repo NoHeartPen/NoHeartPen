@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: NoHeartPen@outlook.com
 
 
-<img width="100%" align="left" src="github-metrics.svg">
-</a>
-<img width="100%" align="left" src="metrics.plugin.languages.indepth.svg">
-</a>
-<img width="100%" align="left" src="metrics.plugin.habits.charts.svg">
-</a>
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=NoHeartPen&show_icons=true&line_height=33">
+<img width="50%" align="right" src="metrics.plugin.languages.indepth.svg">
+
+
+
