@@ -22,7 +22,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,Tcl,
             gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
