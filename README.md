@@ -25,14 +25,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Japanese NLP and CAT.
 - 📫 How to reach me: NoHeartPen@outlook.com
 
-@media(max-width: 768px) {
+
 <img width="45%" align="left" src="github-metrics.svg">
 </a>
+
 <img width="45%" align="left" src="metrics.plugin.languages.indepth.svg">
 </a>
+
 <img width="45%" align="left" src="metrics.plugin.habits.charts.svg">
 </a>
-}
+
 
 
 
