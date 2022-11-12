@@ -28,3 +28,12 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+      - uses: lowlighter/metrics@latest
+        with:
+            filename: metrics.plugin.habits.charts.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_habits: yes
+            plugin_habits_facts: no
+            plugin_habits_charts: yes
+            config_timezone: Asia/Shanghai
