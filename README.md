@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=NoHeartPen&show_icons=true&line_height=33">
-<img width="50%" align="right" src="metrics.plugin.languages.indepth.svg">
+<img width="45%" align="right" src="metrics.plugin.languages.indepth.svg">
 
 
 
