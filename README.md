@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 -->
 
-- 🏫 I'm a junior at Sichuan International Studies University and study Japanese Language and Literature.
+- 🏫 I'm a senior at Sichuan International Studies University and study Japanese Language and Literature.
 - 🔭 I’m currently working on Japanese NLP and CAT.
 - 📫 How to reach me: NoHeartPen@outlook.com
 
 
-<img width="45%" align="left" src="github-metrics.svg">
+<img width="100%" align="left" src="github-metrics.svg">
 </a>
-<img width="45%" align="left" src="metrics.plugin.languages.indepth.svg">
+<img width="100%" align="left" src="metrics.plugin.languages.indepth.svg">
 </a>
-<img width="45%" align="left" src="metrics.plugin.habits.charts.svg">
+<img width="100%" align="left" src="metrics.plugin.habits.charts.svg">
 </a>
