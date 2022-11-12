@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: NoHeartPen@outlook.com
 
 
-<img width="40%" align="left" src="github-metrics.svg">
+<img width="50%" align="left" src="github-metrics.svg">
 </a>
 <img width="45%" align="left" src="metrics.plugin.languages.indepth.svg">
 </a>
-<img width="50%" align="left" src="metrics.plugin.habits.charts.svg">
+<img width="45%" align="left" src="metrics.plugin.habits.charts.svg">
 </a>
 
 
