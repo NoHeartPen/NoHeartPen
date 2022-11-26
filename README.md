@@ -13,17 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Japanese 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=NoHeartPen&show_icons=true&line_height=33">
-</a>
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHeartPen&layout=compact&hide=Tex,shell,html,css,Tcl">
-</a>
-
--->
-
-- 🏫 I'm a senior at Sichuan International Studies University and study Japanese Language and Literature.
-- 🔭 I’m currently working on Japanese NLP and CAT.
-- 📫 How to reach me: NoHeartPen@outlook.com
 
 
 <img width="45%" align="left" src="github-metrics.svg">
@@ -33,6 +22,19 @@ Here are some ideas to get you started:
 </a>
 
 <img width="45%" align="left" src="metrics.plugin.habits.charts.svg">
+</a>
+
+-->
+
+- 🏫 I'm a senior at Sichuan International Studies University and study Japanese Language and Literature.
+- 🔭 I’m currently working on Japanese NLP and CAT.
+- 📫 How to reach me: NoHeartPen@outlook.com
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=NoHeartPen&show_icons=true&line_height=33">
+</a>
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHeartPen&layout=compact&hide=Tex,shell,html,css,Tcl">
 </a>
 
 
