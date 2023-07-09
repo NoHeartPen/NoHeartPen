@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🏫 I'm a senior at Sichuan International Studies University and study Japanese Language and Literature.
-- 🔭 I’m currently working on Japanese NLP and CAT.
+- 🧐 I'm Xuetong Qing, 卿学童 in Chinese, and I like to use John Qing as my English name.
+- 🏫 I graduated from Sichuan International Studies University, majoring in Japanese Language and Literature.
+- 🔭 I’m currently working on Japanese NLP and CAT in my spare time.
+- 🌱 I'm developing an algorithm of Information Retrieval for Japanese dictionary applications.
 - 📫 How to reach me: NoHeartPen@outlook.com
 
 
