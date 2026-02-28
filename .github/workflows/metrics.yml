@@ -13,9 +13,17 @@ jobs:
           user: NoHeartPen
           template: classic
           base: header, activity, community, repositories, metadata
-          # 排除非核心语言
           plugin_languages: yes
           plugin_languages_ignored: >-
-            tex, shell, html, css, tcl, procfile, batchfile, vbscript
+            tex, shell, html, css, tcl, procfile, batchfile, vbscript # 排除非核心语言
           plugin_languages_details: percentage
           config_timezone: Asia/Shanghai
+          plugin_languages_sections: most-used # 只显示最常用的
+          plugin_languages_indepth: yes # 获取更深层的统计
+          plugin_languages_limit: 8 # 限制显示的语言数量，防止列表太长
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 21 # 展示最近一周
+          plugin_wakatime_sections: time, languages # 只看时长和语言占比
+          plugin_wakatime_limit: 5 # 限制显示前5名，防止太长
