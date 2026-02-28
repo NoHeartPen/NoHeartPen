@@ -19,7 +19,7 @@ jobs:
           plugin_languages_details: percentage
           config_timezone: Asia/Shanghai
           plugin_languages_sections: most-used # 只显示最常用的
-          plugin_languages_indepth: yes # 获取更深层的统计
+          plugin_languages_indepth: no # 不获取更深层的统计
           plugin_languages_limit: 8 # 限制显示的语言数量，防止列表太长
           
           plugin_wakatime: yes
